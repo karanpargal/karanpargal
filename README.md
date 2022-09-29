@@ -3,6 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpargal&label=Profile%20views&color=0e75b6&style=flat" alt="karanpargal" /> </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Karan Pargal">
+ </p>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Karan Pargal" height="200"/>
+</p>
+<hr>
+
+
+
+
+  ![Karan Pargal's github activity graph](https://activity-graph.herokuapp.com/graph?username=karanpargal&theme=react-dark)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpargal" alt="karanpargal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
